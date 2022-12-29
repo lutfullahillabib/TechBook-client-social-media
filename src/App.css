@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,23 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/*  */
+
+/* .bg {
+  background-image: linear-gradient(90deg, blue, skyblue);
+  transition: background-image 1000ms;
+}
+
+.bg:hover {
+  background-image: linear-gradient(90deg, #69707E, cyan);
+  color: black;
+} */
+
+
+.active {
+  border-color: white;
+
+  border-radius: 0.5rem;
 }
